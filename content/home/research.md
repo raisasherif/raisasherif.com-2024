@@ -3,13 +3,13 @@
 
 #### Impact, Inspiration, or Image: On the Trade-Offs Between Efficient and Visible Pro-Environmental Behaviors
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
-(with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
+with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) (Submitted)
 
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
 
 
 #### Are pro-environment behaviours substitutes or complements? Evidence from the field
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970)
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
 
 <!---
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
@@ -30,11 +30,6 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 
 
-#### Wins and losses in collective actions. 
-(with Biljana Meiske) [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7474) 
-
-Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
-
 #### Information campaigns, environment norms, and behaviour: Evidence from the field. 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7439) 
 
@@ -42,15 +37,20 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 #### Shaping Minds: The Transformative Effects of Theatre-Based Learning
-(with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash)
+with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash
 
-Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills have been associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 100schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 36 hours of arts and theater-based instruction spread over 24 weekly sessions. We will measure the impacts on cognitive skills (critical thinking and learning), social skills (class participation, network formation, communication skills, pro-sociality), and emotional skills (stress, anxiety, self-care, self-esteem).
+Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
 
 
 #### Sorting it out: Waste Management in Urban India
-(with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/))
+with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/)
 
 Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
+
+#### Wins and losses in collective actions. 
+with Biljana Meiske [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7474) 
+
+Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
 
 
 ## Publications
