@@ -30,16 +30,19 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 
 
+#### Shaping Minds: The Transformative Effects of Theatre-Based Learning
+with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
+[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14146)
+R&R Journal of Development Economics (Pre-results Review)
+
+Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
+
+
 #### Information campaigns, environment norms, and behaviour: Evidence from the field. 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7439) 
 
 Information campaigns that aim to encourage pro-environment activities are a widely popular policy instrument. In addition to closing the information gap related to target behaviours, such interventions can potentially change the beliefs that individuals hold about the appropriateness of these behaviours. This is particularly likely in the context of environment behaviours because of the normative nature of interventions, where a ‘correct’ behaviour is often encouraged. We look at whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. We aim to separately identify these two channels through a ﬁeld experiment.
 </details>
-
-#### Shaping Minds: The Transformative Effects of Theatre-Based Learning
-with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash
-
-Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
 
 
 #### Sorting it out: Waste Management in Urban India
