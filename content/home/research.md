@@ -21,13 +21,14 @@ Today's environmental challenges prompt individuals to take personal actions, th
 This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
 
 
+#### Sorting it out: Waste Management in Urban India
+[Working Paper](https://repec.iza.org/dp17508.pdf)
+with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
+
+Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
+
+
 ### Work in progress
-
-#### Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors
-(with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, Nishith Prakash, Shwetlena Sabarwal and  Dighbijoy Samaddar)
-[AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)
-
-This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 
 
 #### Shaping Minds: The Transformative Effects of Theatre-Based Learning
@@ -37,6 +38,12 @@ R&R Journal of Development Economics (Pre-results Review)
 
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
 
+#### Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors
+(with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, Nishith Prakash, Shwetlena Sabarwal and  Dighbijoy Samaddar)
+[AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)
+
+This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
+
 
 #### Information campaigns, environment norms, and behaviour: Evidence from the field. 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7439) 
@@ -45,10 +52,6 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 
-#### Sorting it out: Waste Management in Urban India
-with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/)
-
-Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
 
 #### Wins and losses in collective actions. 
 with Biljana Meiske [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7474) 
