@@ -25,7 +25,7 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 [Working Paper](https://repec.iza.org/dp17508.pdf)
 with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
 
-Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
+Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
 
 
 ### Work in progress
