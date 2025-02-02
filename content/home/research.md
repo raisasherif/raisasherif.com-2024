@@ -23,15 +23,6 @@ Today's environmental challenges prompt individuals to take personal actions, th
 This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
 
 
-#### Sorting it out: Waste Management in Urban India
-[Working Paper](https://repec.iza.org/dp17508.pdf)
-with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
-
-Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
-
-
-### Work in progress
-
 
 #### Shaping Minds: The Transformative Effects of Theatre-Based Learning
 with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
@@ -40,6 +31,16 @@ with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and
 Revise and Resubmit, Journal of Development Economics (Pre-results Review)
 
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
+
+
+#### Sorting it out: Waste Management in Urban India
+[Working Paper](https://repec.iza.org/dp17508.pdf)
+with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
+
+Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
+
+
+### Work in progress
 
 #### Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors
 (with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, Nishith Prakash, Shwetlena Sabarwal and  Dighbijoy Samaddar)
