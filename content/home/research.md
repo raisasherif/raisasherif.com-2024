@@ -5,7 +5,8 @@
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 
-**Revise and Resubmit, Journal of Environmental Economics and Management**
+<span style="color: #007bff;">Revise and Resubmit, Journal of Environmental Economics and Management</span>
+
 
 <details>
 <summary>Abstract</summary>
@@ -17,7 +18,8 @@ Today's environmental challenges prompt individuals to take personal actions, th
 with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14146)
 
-**Conditionally accepted via pre-results review, Journal of Development Economics**
+<span style="color: #007bff;">Conditionally accepted via pre-results review, Journal of Development Economics</span>
+
 
 <details>
 <summary>Abstract</summary>
