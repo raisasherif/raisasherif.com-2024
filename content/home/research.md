@@ -8,9 +8,10 @@ with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_pe
 **Revise and Resubmit, Journal of Environmental Economics and Management**
 
 
-{{% details "Abstract" %}}
+<details>
+  <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
-{{% /details %}}
+</details>
 
 
 #### Shaping Minds: The Transformative Effects of Theatre-Based Learning
