@@ -1,5 +1,5 @@
 
-### Working Papers
+
 
 #### Impact, Inspiration, or Image: On the Trade-Offs Between Efficient and Visible Pro-Environmental Behaviors
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
