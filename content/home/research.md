@@ -59,6 +59,14 @@ Urban waste management challenges pose significant health and economic consequen
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 </details>
 
+#### Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India
+(with Sofia Amaral, Isis Gaddis, Shirleen Manzur, Alreena Pinto, Jayati Sethi)
+
+<details>
+<summary>Abstract</summary>
+This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
+</details>
+
 #### Information campaigns, environment norms, and behaviour: Evidence from the field. 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7439) 
 
