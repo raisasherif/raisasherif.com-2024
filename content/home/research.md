@@ -5,7 +5,7 @@
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 
-<span style="color: #007bff;">Revise and Resubmit, Journal of Environmental Economics and Management</span>
+*[Revise and Resubmit, Journal of Environmental Economics and Management]*
 
 
 <details>
