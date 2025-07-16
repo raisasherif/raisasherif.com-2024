@@ -1,3 +1,16 @@
+
+---
+title: "Teaching"
+weight: 40
+menu:
+  main:
+    name: "Teaching"
+    url: "#teaching"
+    weight: 40
+---
+
+
+
 ### Teaching
 
 ### Behavioural Environmental Economics
