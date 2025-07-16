@@ -1,11 +1,11 @@
 ---
 title: "Research"
-weight: 2
+weight: 30
 menu:
   main:
     name: "Research"
     url: "#research"
-    weight: 2
+    weight: 30
 ---
 
 
