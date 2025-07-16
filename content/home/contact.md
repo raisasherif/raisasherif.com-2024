@@ -1,8 +1,13 @@
 ---
-widget: contact
-headless: true
-weight: 200
+title: "Contact"
+weight: 99
+menu:
+  main:
+    name: "Contact"
+    url: "#contact"
+    weight: 99
 ---
+
 
 
 **Email**: raisa.sherif@tax.mpg.de
