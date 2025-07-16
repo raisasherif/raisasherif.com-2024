@@ -1,3 +1,12 @@
+---
+title: "Research"
+weight: 2
+menu:
+  main:
+    name: "Research"
+    url: "#research"
+    weight: 2
+---
 
 
 
