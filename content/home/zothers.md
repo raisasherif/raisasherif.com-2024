@@ -1,11 +1,11 @@
 ---
-title: "Mentoring"
-weight: 40
+title: "Services"
+weight: 50
 menu:
   main:
-    name: "Mentoring"
-    url: "#mentoring"
-    weight: 40
+    name: "Services"
+    url: "#services"
+    weight: 50
 ---
 
 
