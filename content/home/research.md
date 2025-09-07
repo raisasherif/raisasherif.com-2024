@@ -32,7 +32,10 @@ Despite progress in addressing barriers to human capital in the last two decades
 **Sanctioning, selection, and pivotality in voting: theory and experimental results**
 [Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
 with Kai Konrad
-
+<details>
+<summary>Abstract</summary>
+Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters’ beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
+</details>
 
 **Are pro-environment behaviours substitutes or complements? Evidence from the field** 
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) 
