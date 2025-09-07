@@ -11,7 +11,8 @@ menu:
 
 
 **Impact, Inspiration, or Image: On the Trade-Offs Between Efficient and Visible Pro-Environmental Behaviors**
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097) | with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097) 
+with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 *[Accepted, Journal of Environmental Economics and Management]*
 <details>
 <summary>Abstract</summary>
@@ -19,8 +20,9 @@ Today's environmental challenges prompt individuals to take personal actions, th
 </details>
 
 
-**Shaping Minds: The Transformative Effects of Theatre-Based Learning** | with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
+**Shaping Minds: The Transformative Effects of Theatre-Based Learning** 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14146)
+with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
 *[Conditionally accepted via pre-results review, Journal of Development Economics]*
 <details>
 <summary>Abstract</summary>
@@ -28,11 +30,13 @@ Despite progress in addressing barriers to human capital in the last two decades
 </details>
 
 **Sanctioning, selection, and pivotality in voting: theory and experimental results**
-(with Kai Konrad) [Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
+[Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
+with Kai Konrad
 
 
 **Are pro-environment behaviours substitutes or complements? Evidence from the field** 
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) 
+(Submitted)
 <details>
 <summary>Abstract</summary>
 This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
@@ -40,7 +44,8 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 
 
-**Sorting it out: Waste Management in Urban India** | with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
+**Sorting it out: Waste Management in Urban India** 
+with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/) (Submitted)
 [Working Paper](https://repec.iza.org/dp17508.pdf)
 <details>
 <summary>Abstract</summary>
