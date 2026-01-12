@@ -10,8 +10,8 @@ menu:
 
 
 
-**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**
-[Paper](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
+
+[**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 *[2025, Journal of Environmental Economics and Management]*
 <details>
