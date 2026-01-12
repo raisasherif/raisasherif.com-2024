@@ -76,7 +76,7 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 [**Wins and losses in collective actions**](https://www.socialscienceregistry.org/trials/7474)  
-with Biljana Meiske
+with [Biljana Meiske](http://biljanameiske.com/)
 <details>
 <summary>Abstract</summary>
 Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
