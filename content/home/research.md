@@ -20,8 +20,7 @@ Today's environmental challenges prompt individuals to take personal actions, th
 </details>
 
 
-**Shaping Minds: The Transformative Effects of Theatre-Based Learning** 
-[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14146)
+[**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
 with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
 *Conditionally accepted via pre-results review, Journal of Development Economics*
 <details>
@@ -37,9 +36,8 @@ with Kai Konrad
 Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters’ beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
 </details>
 
-**Are pro-environment behaviours substitutes or complements? Evidence from the field** 
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) 
-(Submitted)
+[**Are pro-environment behaviours substitutes or complements? Evidence from the field**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970)  
+*(Submitted)*
 <details>
 <summary>Abstract</summary>
 This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
