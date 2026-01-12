@@ -21,7 +21,7 @@ Today's environmental challenges prompt individuals to take personal actions, th
 
 
 [**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
-with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
+with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Shantanu Khanna](https://www.shantanukhanna.com/), [Abhiroop Mukhopadhyay](https://sites.google.com/view/abhiroop/home) and [Nishith Prakash](https://nishithprakash.com/)
 *Conditionally accepted via pre-results review, Journal of Development Economics*
 <details>
 <summary>Abstract</summary>
@@ -30,7 +30,7 @@ Despite progress in addressing barriers to human capital in the last two decades
 
 
 [**Sanctioning, selection, and pivotality in voting: theory and experimental results**](https://link.springer.com/article/10.1007/s10602-019-09284-4)
-with Kai Konrad
+with [Kai Konrad](https://www.tax.mpg.de/de/finanzwissenschaft/mitarbeiter/prof_dr_kai_a_konrad)
 <details>
 <summary>Abstract</summary>
 Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters’ beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
@@ -46,7 +46,7 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 
 [**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf)  
-with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/)
+with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Prakash](https://nishithprakash.com/)
 *Working Paper (Submitted)*
 <details>
 <summary>Abstract</summary>
@@ -56,14 +56,14 @@ Urban waste management challenges pose significant health and economic consequen
 #### Work in progress
 
 [**Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**](https://doi.org/10.1257/rct.13240-1.0)  
-with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, [Nishith Prakash](https://nishithprakash.com/), Shwetlena Sabarwal and Dighbijoy Samaddar  
+with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Nirajana Mishra](https://sites.google.com/view/nirajana-mishra/), [Nishith Prakash](https://nishithprakash.com/), [Shwetlena Sabarwal](https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal) and Dighbijoy Samaddar  
 <details>
 <summary>Abstract</summary>
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 </details>
 
 [**Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India**](https://www.socialscienceregistry.org/trials/)  
-with Sofia Amaral, Isis Gaddis, Shirleen Manzur, Alreena Pinto and Jayati Sethi 
+with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
 <details>
 <summary>Abstract</summary>
 This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
