@@ -13,7 +13,7 @@ menu:
 
 [**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
-*[2025, Journal of Environmental Economics and Management]*
+*2025, Journal of Environmental Economics and Management*
 <details>
 <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
@@ -23,7 +23,7 @@ Today's environmental challenges prompt individuals to take personal actions, th
 **Shaping Minds: The Transformative Effects of Theatre-Based Learning** 
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14146)
 with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and Nishith Prakash 
-*[Conditionally accepted via pre-results review, Journal of Development Economics]*
+*Conditionally accepted via pre-results review, Journal of Development Economics*
 <details>
 <summary>Abstract</summary>
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
