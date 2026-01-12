@@ -10,10 +10,10 @@ menu:
 
 
 
-**Impact, Inspiration, or Image: On the Trade-Offs Between Efficient and Visible Pro-Environmental Behaviors**
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097) 
+**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**
+[Paper]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097](https://www.sciencedirect.com/science/article/pii/S0095069625000981)) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
-*[Accepted, Journal of Environmental Economics and Management]*
+*[2025, Journal of Environmental Economics and Management]*
 <details>
 <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
