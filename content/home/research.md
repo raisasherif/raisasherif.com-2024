@@ -29,8 +29,8 @@ with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay and
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
 </details>
 
-**Sanctioning, selection, and pivotality in voting: theory and experimental results**
-[Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
+
+[**Sanctioning, selection, and pivotality in voting: theory and experimental results**](https://link.springer.com/article/10.1007/s10602-019-09284-4)
 with Kai Konrad
 <details>
 <summary>Abstract</summary>
