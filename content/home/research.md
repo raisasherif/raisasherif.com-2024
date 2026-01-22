@@ -68,6 +68,15 @@ with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/gr
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 </details>
 
+[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://aspredicted.org/9t9k-fxvb.pdf)  
+with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
+
+<details>
+<summary>Abstract</summary>
+We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
+</details>
+
+
 #### Work in progress
 
 [**Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India**](https://www.socialscienceregistry.org/trials/)  
@@ -86,13 +95,6 @@ with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)
 Climate education may shape pro-environmental preferences and behaviors where children face high exposure to climate risks but few means to adapt. We test an arts-based curriculum that integrates social-emotional learning with climate education through poetry, theatre, and storytelling in a randomized trial across 110 classrooms in low-income Indian schools. The curriculum centers on air pollution as a locally salient issue and aims to make climate change personally relevant while fostering collective engagement. We estimate effects on knowledge, attitudes, individual protective actions, classroom-level public-good contributions, prosocial donations, and information-seeking about air quality, providing experimental evidence on how school-based interventions can influence environmental behavior in developing-country settings.
 </details>
 
-[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://aspredicted.org/9t9k-fxvb.pdf)  
-with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
-*Work in Progress*
-<details>
-<summary>Abstract</summary>
-We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
-</details>
 
 [**Information campaigns, environment norms, and behaviour: Evidence from the field**](https://www.socialscienceregistry.org/trials/7439)  
 
