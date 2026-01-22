@@ -77,6 +77,14 @@ with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gadd
 This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
 </details>
 
+[**Socio-Emotional Skills and Climate Education: A Randomized Evaluation of Air Quality Curriculum in Indian Schools**](https://www.socialscienceregistry.org/trials/17573)  
+with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)  
+
+<details>
+<summary>Abstract</summary>
+Climate education may shape pro-environmental preferences and behaviors where children face high exposure to climate risks but few means to adapt. We test an arts-based curriculum that integrates social-emotional learning with climate education through poetry, theatre, and storytelling in a randomized trial across 110 classrooms in low-income Indian schools. The curriculum centers on air pollution as a locally salient issue and aims to make climate change personally relevant while fostering collective engagement. We estimate effects on knowledge, attitudes, individual protective actions, classroom-level public-good contributions, prosocial donations, and information-seeking about air quality, providing experimental evidence on how school-based interventions can influence environmental behavior in developing-country settings.
+</details>
+
 [**Information campaigns, environment norms, and behaviour: Evidence from the field**](https://www.socialscienceregistry.org/trials/7439)  
 
 <details>
