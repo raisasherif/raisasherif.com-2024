@@ -1,12 +1,12 @@
 
 ---
 title: "Teaching"
-weight: 50
+weight: 40
 menu:
   main:
     name: "Teaching"
     url: "#teaching"
-    weight: 50
+    weight: 40
 ---
 
 
