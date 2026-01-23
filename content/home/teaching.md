@@ -1,7 +1,7 @@
 
 ---
 title: "Teaching"
-weight: 40
+weight: 50
 menu:
   main:
     name: "Teaching"
