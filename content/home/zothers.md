@@ -5,7 +5,7 @@ menu:
   main:
     name: "Services"
     url: "#services"
-    weight: 50
+    weight: 60
 ---
 
 
