@@ -13,7 +13,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 3
-  - name: Workshop
+  - name: Workshop Pro-Environmental Behaviors
     url: '#workshop'
     weight: 4
   - name: Services
