@@ -1,13 +1,13 @@
 ---
 title: "Workshop"
 type: page
-weight: 40
+weight: 50
 
 # Add to menu
 menu:
   main:
     name: "Workshop"
-    weight: 40
+    weight: 50
 
 ---
 
