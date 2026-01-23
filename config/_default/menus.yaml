@@ -16,7 +16,7 @@ main:
   - name: Workshop Pro-Environmental Behaviors
     url: '#workshop'
     weight: 4
-  - name: Services
+  - name: Service
     url: '#zothers'
     weight: 5
   - name: Contact
