@@ -1,6 +1,7 @@
 ---
 title: "Workshop"
 type: page
+weight: 40
 
 # Add to menu
 menu:
