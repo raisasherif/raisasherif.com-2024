@@ -14,7 +14,7 @@ main:
     url: '#teaching'
     weight: 3
   - name: Workshop
-    url: '/workshop/'
+    url: '#workshop'
     weight: 4
   - name: Services
     url: '#zothers'
