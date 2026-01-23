@@ -6,6 +6,10 @@ menu:
     name: "Research"
     url: "#research"
     weight: 30
+
+design:
+  background:
+    color: 'white'
 ---
 
 
