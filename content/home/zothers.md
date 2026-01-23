@@ -1,10 +1,10 @@
 ---
-title: "Services"
+title: "Service"
 weight: 50
 menu:
   main:
-    name: "Services"
-    url: "#services"
+    name: "Service"
+    url: "#service"
     weight: 60
 ---
 
