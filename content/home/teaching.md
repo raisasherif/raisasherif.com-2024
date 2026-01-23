@@ -6,7 +6,7 @@ menu:
   main:
     name: "Teaching"
     url: "#teaching"
-    weight: 40
+    weight: 50
 ---
 
 
