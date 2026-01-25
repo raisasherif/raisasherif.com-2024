@@ -10,7 +10,7 @@ menu:
 ---
 
 
-# Publications
+## Publications
 
 [**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
@@ -41,7 +41,7 @@ with [Kai Konrad](https://www.tax.mpg.de/de/finanzwissenschaft/mitarbeiter/prof_
 Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters’ beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
 </details>
 
-# Working Papers
+## Working Papers
 
 [**Are pro-environment behaviours substitutes or complements? Evidence from the field**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2021-03  
 
@@ -80,7 +80,7 @@ We study how misperceptions of local air quality shape individual behavior and p
 </details>
 
 
-# In progress
+## In progress
 
 **Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
 with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
