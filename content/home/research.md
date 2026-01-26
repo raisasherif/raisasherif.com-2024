@@ -14,7 +14,8 @@ menu:
 
 [**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
-**Journal of Environmental Economics and Management, 2025**
+
+**Journal of Environmental Economics and Management**, 2025
 <details>
 <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
@@ -24,7 +25,7 @@ Today's environmental challenges prompt individuals to take personal actions, th
 [**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
 with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Shantanu Khanna](https://www.shantanukhanna.com/), [Abhiroop Mukhopadhyay](https://sites.google.com/view/abhiroop/home) and [Nishith Prakash](https://nishithprakash.com/)
 
-*Conditionally accepted via pre-results review, Journal of Development Economics*
+Conditionally accepted via pre-results review, **Journal of Development Economics**, 2025
 <details>
 <summary>Abstract</summary>
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
@@ -34,7 +35,7 @@ Despite progress in addressing barriers to human capital in the last two decades
 [**Sanctioning, selection, and pivotality in voting: theory and experimental results**](https://link.springer.com/article/10.1007/s10602-019-09284-4)
 with [Kai Konrad](https://www.tax.mpg.de/de/finanzwissenschaft/mitarbeiter/prof_dr_kai_a_konrad)
 
-*Constitutional Political Economy, 2019*
+**Constitutional Political Economy**, 2019
 <details>
 <summary>Abstract</summary>
 Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters’ beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
