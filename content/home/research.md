@@ -53,15 +53,6 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 
 
-[**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf), IZA Discussion Paper No. 17508  
-with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Prakash](https://nishithprakash.com/)
-
-*(Submitted)*
-<details>
-<summary>Abstract</summary>
-Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
-</details>
-
 
 **Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**, [AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)  
 with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Nirajana Mishra](https://sites.google.com/view/nirajana-mishra/), [Nishith Prakash](https://nishithprakash.com/), [Shwetlena Sabarwal](https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal) and Dighbijoy Samaddar  
@@ -78,6 +69,16 @@ with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthe
 <summary>Abstract</summary>
 We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
 </details>
+
+[**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf), IZA Discussion Paper No. 17508  
+with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Prakash](https://nishithprakash.com/)
+
+*(Submitted)*
+<details>
+<summary>Abstract</summary>
+Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
+</details>
+
 
 
 ## In progress
