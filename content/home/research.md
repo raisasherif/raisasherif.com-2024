@@ -51,7 +51,13 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
 </details>
 
+[**Do perceptions match pollution levels? Evidence from three Indian cities**]([https://aspredicted.org/9t9k-fxvb.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580)), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
+with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
 
+<details>
+<summary>Abstract</summary>
+We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
+</details>
 
 
 **Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**, [AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)  
@@ -62,13 +68,7 @@ with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/gr
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 </details>
 
-**Do perceptions match pollution levels? Evidence from three Indian cities** [Pre-registration](https://aspredicted.org/9t9k-fxvb.pdf)  
-with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
 
-<details>
-<summary>Abstract</summary>
-We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
-</details>
 
 [**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf), IZA Discussion Paper No. 17508  
 with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Prakash](https://nishithprakash.com/)
