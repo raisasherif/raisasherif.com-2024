@@ -60,7 +60,7 @@ We study how misperceptions of local air quality shape individual behavior and p
 </details>
 
 
-**Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**, [AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)  
+[**Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**]([https://doi.org/10.1257/rct.13240-1.0](https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors)), CESifo Working Paper No. 12499
 with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Nirajana Mishra](https://sites.google.com/view/nirajana-mishra/), [Nishith Prakash](https://nishithprakash.com/), [Shwetlena Sabarwal](https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal) and Dighbijoy Samaddar  
 
 <details>
