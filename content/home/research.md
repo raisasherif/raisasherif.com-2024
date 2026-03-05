@@ -61,7 +61,7 @@ This study examines the effect of educational interventions on improving pro-env
 </details>
 
 
-[**Do perceptions match pollution levels? Evidence from three Indian cities**]([https://aspredicted.org/9t9k-fxvb.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580)), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
+[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
 with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
 
 <details>
