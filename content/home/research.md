@@ -100,7 +100,7 @@ Climate education may shape pro-environmental preferences and behaviors where ch
 </details>
 
 
-**Information campaigns, environment norms, and behaviour: Evidence from the field** [Pre-registration](https://www.socialscienceregistry.org/trials/7439) 
+**Information vs Peer Norms: Field Experiment** 
 with [Esther Blanco](https://www.esther-blanco.com/bio)
 
 Part of the broader project [#Cooperate4Climate](https://sites.google.com/view/cooperation4climate/home?authuser=1)
