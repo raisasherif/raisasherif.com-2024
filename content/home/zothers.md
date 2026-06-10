@@ -1,13 +1,7 @@
 ---
 title: "Service"
 weight: 60
-menu:
-  main:
-    name: "Service"
-    url: "#service"
-    weight: 60
 ---
-
 
 ### Mentoring 
 
