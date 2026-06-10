@@ -18,8 +18,6 @@ Harnack House, Berlin
 ### About the Workshop
 This workshop brings together researchers to discuss the latest advances in understanding pro-environmental behavior, including its drivers, consequences, and policy implications.
 
-<!-- Image will go here once uploaded -->
-
 ### Key Topics
 - Motivations behind pro-environmental behaviors
 - Energy conservation and household decisions
