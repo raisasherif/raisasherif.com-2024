@@ -25,4 +25,4 @@ This workshop brings together researchers to discuss the latest advances in unde
 - Intergenerational transmission of environmental values
 - Policy interventions and behavioral change
 
-{{< figure src="/uploads/Workshop_photo.jpg" caption="Workshop on Pro-Environmental Behavior, Harnack House, Berlin, March 2025" >}}
+{{< figure src="/uploads/Workshop_photo.jpg" caption="Workshop on Pro-Environmental Behavior, Harnack House, Berlin, March 2025. Photo credits: Paul Meißner" >}}
