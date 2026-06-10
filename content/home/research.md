@@ -1,12 +1,6 @@
 ---
 title: "Research"
 weight: 30
-menu:
-  main:
-    name: "Research"
-    url: "#research"
-    weight: 30
-
 ---
 
 
