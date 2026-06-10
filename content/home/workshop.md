@@ -9,7 +9,7 @@ weight: 50
 **March 6-7, 2025**  
 Harnack House, Berlin
 
-[**Download Full Program (PDF)**](Program_Environmental_Workshop_Berlin_Final.pdf)
+[**Download Full Program (PDF)**](/uploads/Program_Environmental_Workshop_Berlin_Final.pdf)
 
 ### Program Committee
 - Kai A. Konrad
