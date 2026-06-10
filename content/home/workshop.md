@@ -1,6 +1,5 @@
 ---
 title: "Workshop"
-type: page
 weight: 50
 ---
 
