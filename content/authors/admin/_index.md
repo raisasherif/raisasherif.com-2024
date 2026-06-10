@@ -76,10 +76,10 @@ I am a Senior Scientist at the Department of Public Economics at the [Max Planck
 
 My research focuses on understanding pro-environmental behaviours and the effectiveness of policy interventions targeted at them. I study these topics using insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments. 
 
-## Affiliations
+### Affiliations
 
-- [CESifo](https://www.cesifo.org/) Affiliate, **since 2026**
-- Research Affiliate, [IZA (Institute for the Study of Labor)](https://www.iza.org/), **since 2026**
-- Invited Researcher, [J-PAL](https://www.povertyactionlab.org/), **since 2024**
-- Affiliate, [GAP (Global Action for Policy) Initiative](https://cssh.northeastern.edu/gap/), Northeastern University, **since 2023**
+- [CESifo](https://www.cesifo.org/) Affiliate, since 2026
+- Research Affiliate, [IZA (Institute for the Study of Labor)](https://www.iza.org/), since 2026
+- Invited Researcher, [J-PAL](https://www.povertyactionlab.org/), since 2024
+- Affiliate, [GAP (Global Action for Policy) Initiative](https://cssh.northeastern.edu/gap/), Northeastern University, since 2023
 
