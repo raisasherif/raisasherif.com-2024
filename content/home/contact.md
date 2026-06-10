@@ -1,11 +1,6 @@
 ---
 title: "Contact"
 weight: 99
-menu:
-  main:
-    name: "Contact"
-    url: "#contact"
-    weight: 99
 ---
 
 
