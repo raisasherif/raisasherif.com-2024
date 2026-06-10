@@ -2,13 +2,6 @@
 title: "Workshop"
 type: page
 weight: 50
-
-# Add to menu
-menu:
-  main:
-    name: "Workshop"
-    weight: 50
-
 ---
 
 ## Workshop on Pro-Environmental Behavior: Drivers and Consequences
