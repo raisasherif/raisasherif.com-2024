@@ -11,12 +11,11 @@ last_name: Sherif
 superuser: true
 
 # Role/position/tagline
-# role: 
+role: Senior Scientist
 
-# Organizations/Affiliations to show in About widget
 organizations:
-- name: 
-  url: 
+- name: Max Planck Institute for Tax Law and Public Finance
+  url: https://www.tax.mpg.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
