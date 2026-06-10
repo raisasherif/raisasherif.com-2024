@@ -18,11 +18,11 @@ Harnack House, Berlin
 ### About the Workshop
 This workshop brings together researchers to discuss the latest advances in understanding pro-environmental behavior, including its drivers, consequences, and policy implications.
 
-{{< figure src="/uploads/Workshop_photo.jpg" caption="Workshop on Pro-Environmental Behavior, Harnack House, Berlin, March 2025" >}}
-
 ### Key Topics
 - Motivations behind pro-environmental behaviors
 - Energy conservation and household decisions
 - Climate change attitudes and beliefs
 - Intergenerational transmission of environmental values
 - Policy interventions and behavioral change
+
+{{< figure src="/uploads/Workshop_photo.jpg" caption="Workshop on Pro-Environmental Behavior, Harnack House, Berlin, March 2025" >}}
