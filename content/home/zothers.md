@@ -1,9 +1,6 @@
 ---
 title: "Service"
 weight: 60
-design:
-  background:
-    color: 'white'
 ---
 
 ### Mentoring 
