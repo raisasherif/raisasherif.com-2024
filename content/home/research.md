@@ -1,9 +1,6 @@
 ---
 title: "Research"
 weight: 30
-design:
-  background:
-    color: 'white'
 ---
 
 
