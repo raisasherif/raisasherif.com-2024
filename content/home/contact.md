@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-weight: 99
+weight: 20
 ---
 
 
