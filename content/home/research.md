@@ -78,7 +78,7 @@ Urban waste management challenges pose significant health and economic consequen
 
 **Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
 with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
-
+*(Draft available upon request)*
 <details>
 <summary>Abstract</summary>
 This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
@@ -86,16 +86,22 @@ This paper studies whether strengthening entrepreneurial soft skills improves fi
 
 **Socio-Emotional Skills and Climate Education: A Randomized Evaluation of Air Quality Curriculum in Indian Schools** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/17573)  
 with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)  
-
+*(Draft under preparation)*
 <details>
 <summary>Abstract</summary>
 Climate education may shape pro-environmental preferences and behaviors where children face high exposure to climate risks but few means to adapt. We test an arts-based curriculum that integrates social-emotional learning with climate education through poetry, theatre, and storytelling in a randomized trial across 110 classrooms in low-income Indian schools. The curriculum centers on air pollution as a locally salient issue and aims to make climate change personally relevant while fostering collective engagement. We estimate effects on knowledge, attitudes, individual protective actions, classroom-level public-good contributions, prosocial donations, and information-seeking about air quality, providing experimental evidence on how school-based interventions can influence environmental behavior in developing-country settings.
 </details>
 
+**Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government School**
+with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/) and [Shantanu Khanna](https://www.shantanukhanna.com/)
+<details>
+<summary>Abstract</summary>
+Despite growing recognition that socio-emotional skills are critical for human capital development, evidence on whether public school systems can deliver such skills at scale in low-resource settings remains scarce. We evaluate an arts-integrated social-emotional learning (SEL) program embedded in compulsory art classes in government schools in Punjab, India. The intervention by Punjab's State Council of Education Research and Training (SCERT) provides 8+ hours of teacher training and an SEL-integrated art curriculum aligned with India's National Education Policy. We implement a school-level cluster randomized controlled trial across 200 government schools and approximately 6000 Grade 6 students, with stratification by district. The study tests whether holistic skills can be cultivated through existing instructional time and government school teachers.
+</details>
 
 **Information vs Peer Norms: Field Experiment** 
 with [Esther Blanco](https://www.esther-blanco.com/bio)
-
+*(Data Collection ongoing)*
 Part of the broader project [#Cooperate4Climate](https://sites.google.com/view/cooperation4climate/home?authuser=1)
 
 <details>
