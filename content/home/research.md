@@ -49,6 +49,7 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 [**Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**](https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors), CESifo Working Paper No. 12499
 with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Nirajana Mishra](https://sites.google.com/view/nirajana-mishra/), [Nishith Prakash](https://nishithprakash.com/), [Shwetlena Sabarwal](https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal) and Dighbijoy Samaddar  
 *(Submitted)*
+Cited in the World Bank report [Education for Climate Action](https://www.worldbank.org/en/topic/education/publication/education-for-climate-action)
 <details>
 <summary>Abstract</summary>
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
@@ -57,7 +58,7 @@ This study examines the effect of educational interventions on improving pro-env
 
 [**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
 with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
-*(Under revision)*
+*(R&R submitted, Nature Communications Sustainability)*
 <details>
 <summary>Abstract</summary>
 We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
@@ -66,7 +67,7 @@ We study how misperceptions of local air quality shape individual behavior and p
 
 [**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf), IZA Discussion Paper No. 17508  
 with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Prakash](https://nishithprakash.com/)
-*(Submitted)*
+*(R&R, Environment and Resource Economics)*
 <details>
 <summary>Abstract</summary>
 Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
@@ -79,6 +80,7 @@ Urban waste management challenges pose significant health and economic consequen
 **Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
 with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
 *(Draft available upon request)*
+Featured on the World Bank blog: [Soft skills training helps grow businesses in rural India](https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india)
 <details>
 <summary>Abstract</summary>
 This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
