@@ -43,6 +43,7 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 
 **Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
 with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
+
 Featured on the World Bank blog: [Soft skills training helps grow businesses in rural India](https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india)
 <details>
 <summary>Abstract</summary>
@@ -51,6 +52,7 @@ Can soft skills interventions navigate deeply rooted gender norms? To investigat
 
 
 [**Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors**](https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors), CESifo Working Paper No. 12499
+
 with [Shubhro Bhattacharya](https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Nirajana Mishra](https://sites.google.com/view/nirajana-mishra/), [Nishith Prakash](https://nishithprakash.com/), [Shwetlena Sabarwal](https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal) and Dighbijoy Samaddar  
 
 *(Submitted)*
