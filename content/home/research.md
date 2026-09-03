@@ -95,6 +95,13 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 ## In progress
 
+**Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government School**
+with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/) and [Shantanu Khanna](https://www.shantanukhanna.com/)
+<details>
+<summary>Abstract</summary>
+Despite growing recognition that socio-emotional skills are critical for human capital development, evidence on whether public school systems can deliver such skills at scale in low-resource settings remains scarce. We evaluate an arts-integrated social-emotional learning (SEL) program embedded in compulsory art classes in government schools in Punjab, India. The intervention by Punjab's State Council of Education Research and Training (SCERT) provides 8+ hours of teacher training and an SEL-integrated art curriculum aligned with India's National Education Policy. We implement a school-level cluster randomized controlled trial across 200 government schools and approximately 6000 Grade 6 students, with stratification by district. The study tests whether holistic skills can be cultivated through existing instructional time and government school teachers.
+</details>
+
 
 **Socio-Emotional Skills and Climate Education: A Randomized Evaluation of Air Quality Curriculum in Indian Schools** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/17573)  
 with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)  
@@ -104,12 +111,7 @@ with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)
 Climate education may shape pro-environmental preferences and behaviors where children face high exposure to climate risks but few means to adapt. We test an arts-based curriculum that integrates social-emotional learning with climate education through poetry, theatre, and storytelling in a randomized trial across 110 classrooms in low-income Indian schools. The curriculum centers on air pollution as a locally salient issue and aims to make climate change personally relevant while fostering collective engagement. We estimate effects on knowledge, attitudes, individual protective actions, classroom-level public-good contributions, prosocial donations, and information-seeking about air quality, providing experimental evidence on how school-based interventions can influence environmental behavior in developing-country settings.
 </details>
 
-**Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government School**
-with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/) and [Shantanu Khanna](https://www.shantanukhanna.com/)
-<details>
-<summary>Abstract</summary>
-Despite growing recognition that socio-emotional skills are critical for human capital development, evidence on whether public school systems can deliver such skills at scale in low-resource settings remains scarce. We evaluate an arts-integrated social-emotional learning (SEL) program embedded in compulsory art classes in government schools in Punjab, India. The intervention by Punjab's State Council of Education Research and Training (SCERT) provides 8+ hours of teacher training and an SEL-integrated art curriculum aligned with India's National Education Policy. We implement a school-level cluster randomized controlled trial across 200 government schools and approximately 6000 Grade 6 students, with stratification by district. The study tests whether holistic skills can be cultivated through existing instructional time and government school teachers.
-</details>
+
 
 **Information vs Peer Norms: Field Experiment** 
 with [Esther Blanco](https://www.esther-blanco.com/bio)
