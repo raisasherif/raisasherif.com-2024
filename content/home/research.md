@@ -6,6 +6,17 @@ weight: 30
 
 ## Publications
 
+[**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
+with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Shantanu Khanna](https://www.shantanukhanna.com/), [Abhiroop Mukhopadhyay](https://sites.google.com/view/abhiroop/home) and [Nishith Prakash](https://nishithprakash.com/)
+
+Conditionally accepted, **Journal of Development Economics**
+
+<details>
+<summary>Abstract</summary>
+Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
+</details>
+
+
 [**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 
@@ -14,17 +25,6 @@ with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_pe
 <details>
 <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
-</details>
-
-
-[**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
-with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Shantanu Khanna](https://www.shantanukhanna.com/), [Abhiroop Mukhopadhyay](https://sites.google.com/view/abhiroop/home) and [Nishith Prakash](https://nishithprakash.com/)
-
-Conditionally accepted via pre-results review, **Journal of Development Economics**, 2025
-
-<details>
-<summary>Abstract</summary>
-Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.   
 </details>
 
 
@@ -40,13 +40,13 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 
 ## Working Papers
 
-[**Are pro-environment behaviours substitutes or complements? Evidence from the field**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2021-03  
 
-*(Submitted)*
-
+**Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
+with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
+Featured on the World Bank blog: [Soft skills training helps grow businesses in rural India](https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india)
 <details>
 <summary>Abstract</summary>
-This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
+Can soft skills interventions navigate deeply rooted gender norms? To investigate this question, we implement a gender-stratified RCT among 2,550 micro-entrepreneurs in rural India, combining a soft skills training program with spousal data and a novel norms-elicitation framework. Over a two-year horizon, the training increases average profits and sales by 8 percent. However, this aggregate effect masks a sharp divergence: while male entrepreneurs sustain intensive-margin growth, firm-performance gains for female-led businesses fully dissipate by year two. We demonstrate that this divergence is driven by the normative environment and asymmetric household spillovers. The intervention successfully empowers women to adopt progressive, gender-equitable business behaviors, allowing those most constrained by regressive norms to achieve sustained profit increases comparable to men. Yet, on average, treated women reallocate business gains toward household spending, whereas the wives of treated men increase investments in their husbands' firms. These asymmetric intra-household financial dynamics help explain the persistence of the entrepreneurial gender gap, highlighting how social norms dictate the long-term returns to business training.
 </details>
 
 
@@ -82,18 +82,17 @@ with [Ahana Basistha](https://sites.google.com/view/ahanaecon/home), [Nishith Pr
 Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
 </details>
 
+[**Are pro-environment behaviours substitutes or complements? Evidence from the field**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2021-03  
 
+*(Submitted)*
+
+<details>
+<summary>Abstract</summary>
+This paper uses a ﬁeld experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and ﬁeld experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
+</details>
 
 ## In progress
 
-**Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/)  
-with [Sofia Amaral](https://sites.google.com/view/sofia-amaral/home), [Isis Gaddis](https://blogs.worldbank.org/en/team/i/isis-gaddis), Shirleen Manzur, Alreena Pinto and Jayati Sethi 
-*(Draft available upon request)*
-Featured on the World Bank blog: [Soft skills training helps grow businesses in rural India](https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india)
-<details>
-<summary>Abstract</summary>
-This paper studies whether strengthening entrepreneurial soft skills improves firm outcomes and shifts intra-household dynamics and social norms among rural entrepreneurs in the South Indian state of Tamil Nadu. We implement a gender-stratified randomized controlled trial with 2,558 entrepreneurs, evaluating a Personal Initiative (PI) training program. The intervention aims to enhance non-cognitive skills such as grit, planning, and communication. We pre-specify outcomes spanning business practices, profitability, credit access, intra-household decision-making, and gender norms. To explore mechanisms, we develop a novel social norms survey and conduct a couples’ behavioral game to measure spousal bargaining. Our design allows us to test whether improvements in personal initiative affect not just firm outcomes, but also the social and household constraints that limit women’s entrepreneurship.
-</details>
 
 **Socio-Emotional Skills and Climate Education: A Randomized Evaluation of Air Quality Curriculum in Indian Schools** [AEA RCT Registry](https://www.socialscienceregistry.org/trials/17573)  
 with [Ashutosh Bhuradia](https://ashutoshbhuradia.com/)  
