@@ -17,6 +17,16 @@ Despite progress in addressing barriers to human capital in the last two decades
 </details>
 
 
+[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
+with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
+
+*(Conditionally accepted, Nature Communications Sustainability)*
+
+<details>
+<summary>Abstract</summary>
+We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
+</details>
+
 [**Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors**](https://www.sciencedirect.com/science/article/pii/S0095069625000981) 
 with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html) 
 
@@ -65,15 +75,6 @@ This study examines the effect of educational interventions on improving pro-env
 </details>
 
 
-[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
-with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
-
-*(R&R submitted, Nature Communications Sustainability)*
-
-<details>
-<summary>Abstract</summary>
-We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
-</details>
 
 
 [**Sorting it out: Waste Management in Urban India**](https://repec.iza.org/dp17508.pdf), IZA Discussion Paper No. 17508  
