@@ -4,8 +4,6 @@ weight: 30
 ---
 
 
-## Publications
-
 [**Shaping Minds: The Transformative Effects of Theatre-Based Learning**](https://www.socialscienceregistry.org/trials/14146)  
 with [Ritam Chaurey](https://sites.google.com/site/ritamchaurey/), [Sara Constantino](https://sustainability.stanford.edu/people/sara-constantino), [Shantanu Khanna](https://www.shantanukhanna.com/), [Abhiroop Mukhopadhyay](https://sites.google.com/view/abhiroop/home) and [Nishith Prakash](https://nishithprakash.com/)
 
