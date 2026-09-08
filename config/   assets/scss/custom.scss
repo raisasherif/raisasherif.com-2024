@@ -1,4 +1,9 @@
-   // Increase navigation menu font size
-   .navbar-nav .nav-link {
-     font-size: 1.5rem !important;
-   }
+// TEST: make the navbar bright red so we know this file loads
+.navbar {
+  background-color: red !important;
+}
+
+// Increase navigation menu font size
+.navbar .nav-link {
+  font-size: 1.3rem !important;
+}
