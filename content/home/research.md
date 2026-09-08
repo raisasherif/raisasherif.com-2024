@@ -17,7 +17,7 @@ Despite progress in addressing barriers to human capital in the last two decades
 </details>
 
 
-[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580), Working Paper of the Max Planck Institute for Tax Law and Public Finance No. 2026 – 02  
+[**Do perceptions match pollution levels? Evidence from three Indian cities**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580),
 with [Matthew H. Goldberg](https://environment.yale.edu/directory/faculty/matthew-goldberg) and [A. R. Shariq Mohammed](http://cssh.northeastern.edu/faculty/shariq-mohammed/)  
 
 Conditionally accepted, **Nature Communications Sustainability**
