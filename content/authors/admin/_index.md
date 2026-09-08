@@ -22,9 +22,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Behavioural Environmental Economics
-- Education and Learning Outcomes
-- Development 
+- Development Economics
+- Environmental Economics
+- Economics of Education (Skills and Learning Outcomes)
+
 
 # Education to show in About widget
 education:
