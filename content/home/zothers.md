@@ -11,4 +11,4 @@ The <a href="https://lindau.mentoringhub.org/" style="color:#000;text-decoration
 <strong style="color:#000;">Equal Opportunities</strong><br>
 <span style="color:#6c757d;">Elected Equal Opportunities Officer · MPI for Tax Law and Public Finance</span>
 
-I advocate for and handle issues of inclusivity in science and academia. If you would like to get in touch, please write to <a href="mailto:raisa.sherif@tax.mpg.de" style="color:#000;text-decoration:underline;">raisa.sherif@tax.mpg.de</a>.
+As the equal opportunities officer for the MPI for Tax Law and Public Finance, I spend some of my time advocating for and handling issues of inclusivity in science and academia. If you would like to get in touch, please write to  <a href="mailto:raisa.sherif@tax.mpg.de" style="color:#000;text-decoration:underline;">raisa.sherif@tax.mpg.de</a>.
