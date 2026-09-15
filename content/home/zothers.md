@@ -3,13 +3,12 @@ title: "Service"
 weight: 60
 ---
 
-### Mentoring 
+<strong style="color:#000;">Mentoring</strong><br>
+<span style="color:#6c757d;">Co-developed with the <a href="https://www.lindau-nobel.org/" style="color:#6c757d;text-decoration:underline;">Lindau Nobel Laureate Meetings</a> · Funded by the <a href="https://www.dieter-schwarz-stiftung.de/homepage.html" style="color:#6c757d;text-decoration:underline;">Dieter Schwarz Foundation</a></span>
 
-Please check out the [Lindau Mentoring Hub](https://lindau.mentoringhub.org/), a  digital  platform  that  connects  mentors  and  mentees  in  science  and academia, from across the world. You can sign up [here](https://lindau.mentoringhub.org/app/#/registration).
+The <a href="https://lindau.mentoringhub.org/" style="color:#000;text-decoration:underline;">Lindau Mentoring Hub</a> is a digital platform that connects mentors and mentees in science and academia from across the world. You can <a href="https://lindau.mentoringhub.org/app/#/registration" style="color:#000;text-decoration:underline;">sign up here</a>.
 
-The platform is developed in collaboration with the [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) and is generously funded by the [Dieter Schwarz Foundation](https://www.dieter-schwarz-stiftung.de/homepage.html). 
+<strong style="color:#000;">Equal Opportunities</strong><br>
+<span style="color:#6c757d;">Elected Equal Opportunities Officer · MPI for Tax Law and Public Finance</span>
 
-### Equal Opportunities
-
-As the elected equal opportunities officer for the MPI for Tax Law and Public Finance, I spend some of my time advocating for and handling issues of inclusivity in science and academia. If you would like to get in touch, please write to raisa.sherif@tax.mpg.de. 
-
+I advocate for and handle issues of inclusivity in science and academia. If you would like to get in touch, please write to <a href="mailto:raisa.sherif@tax.mpg.de" style="color:#000;text-decoration:underline;">raisa.sherif@tax.mpg.de</a>.
