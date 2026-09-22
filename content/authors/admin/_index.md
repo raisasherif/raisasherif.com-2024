@@ -74,7 +74,7 @@ highlight_name: true
 
 I am a Senior Scientist at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras. I am also an invited researcher at J-PAL.
 
-My research focuses on understanding pro-environmental behaviours and the effectiveness of policy interventions targeted at them. I study these topics using insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments. 
+I am a development economist working on entrepreneurship, education and environmental behaviors. I study these topics by combining insights from behavioural economics with experimental methods such as randomized control trials, lab-in-the-field, and online survey experiments.
 
 ### Affiliations
 
