@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior Scientist at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras. I am also an invited researcher at J-PAL.
+I am a Senior Research Fellow at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras. I am also an invited researcher at J-PAL.
 
 I am a development economist working on entrepreneurship, education and environmental behaviors. I study these topics by combining insights from behavioural economics with experimental methods such as randomized control trials, lab-in-the-field, and online survey experiments.
 
