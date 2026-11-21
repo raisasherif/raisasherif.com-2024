@@ -11,7 +11,7 @@ last_name: Sherif
 superuser: true
 
 # Role/position/tagline
-role: Senior Scientist
+role: Senior Research Fellow
 
 organizations:
 - name: Max Planck Institute for Tax Law and Public Finance
@@ -23,9 +23,8 @@ bio:
 # Interests to show in About widget
 interests:
 - Development Economics
-- Environmental Economics
 - Economics of Education (Skills and Learning Outcomes)
-
+- Environmental Economics
 
 # Education to show in About widget
 education:
@@ -56,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/raisa-sherif-3a0035159/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: /uploads/resume.pdf
   
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -72,9 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior Research Fellow at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras. I am also an invited researcher at J-PAL.
+I am a Senior Research Fellow at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I received my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras.
 
-I am a development economist working on entrepreneurship, education and environmental behaviors. I study these topics by combining insights from behavioural economics with experimental methods such as randomized control trials, lab-in-the-field, and online survey experiments.
+I am a development economist working on entrepreneurship, education and environmental behaviors. I study these topics by combining insights from behavioural economics with experimental methods such as randomized controlled trials, lab-in-the-field, and online survey experiments.
 
 ### Affiliations
 
@@ -82,4 +81,5 @@ I am a development economist working on entrepreneurship, education and environm
 - Research Affiliate, [IZA (Institute for the Study of Labor)](https://www.iza.org/), since 2026
 - Invited Researcher, [J-PAL](https://www.povertyactionlab.org/), since 2024
 - Affiliate, [GAP (Global Action for Policy) Initiative](https://cssh.northeastern.edu/gap/), Northeastern University, since 2023
+
 
