@@ -3,28 +3,28 @@ title: "Research"
 weight: 30
 ---
 <a href="https://www.socialscienceregistry.org/trials/14146"><strong>Shaping Minds: The Transformative Effects of Theatre-Based Learning</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://sites.google.com/site/ritamchaurey/">Ritam Chaurey</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a>, <a href="https://sites.google.com/view/abhiroop/home">Abhiroop Mukhopadhyay</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">Conditionally accepted, Journal of Development Economics</span>
+<span style="color:#000;">with <a href="https://sites.google.com/site/ritamchaurey/">Ritam Chaurey</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a>, <a href="https://sites.google.com/view/abhiroop/home">Abhiroop Mukhopadhyay</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">Conditionally accepted, Journal of Development Economics</span>
 <details>
 <summary>Abstract</summary>
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized controlled trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.
 </details>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580"><strong>Do perceptions match pollution levels? Evidence from three Indian cities</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://environment.yale.edu/directory/faculty/matthew-goldberg">Matthew H. Goldberg</a> and <a href="http://cssh.northeastern.edu/faculty/shariq-mohammed/">A. R. Shariq Mohammed</a> · </span><span style="color:#000;">Conditionally accepted, Nature Communications Sustainability</span>
+<span style="color:#000;">with <a href="https://environment.yale.edu/directory/faculty/matthew-goldberg">Matthew H. Goldberg</a> and <a href="http://cssh.northeastern.edu/faculty/shariq-mohammed/">A. R. Shariq Mohammed</a> · </span><span style="color:#000;">Conditionally accepted, Nature Communications Sustainability</span>
 <details>
 <summary>Abstract</summary>
 We study how misperceptions of local air quality shape individual behavior and policy preferences in urban India. Using a pre-registered, online survey experiment with 2,117 respondents across three major cities, Mumbai, Bengaluru, and Kolkata, we elicit subjective beliefs about local air quality and randomly provide a subset of participants with accurate Air Quality Index (AQI) data for their city. Participants then allocate real money between themselves and a tree-planting initiative and report support for various environmental policies. We document widespread, systematically biased misperceptions, with individuals in highly polluted cities often underestimating pollution risks. These misperceptions are correlated with lower environmental concern, lower policy support, and weaker climate beliefs. However, providing corrective information does not significantly shift either pro-environmental contributions or stated policy preferences. The only exception occurs among women, who exhibit increased support for environmental policies following treatment. Our findings highlight the limits of informational interventions in contexts of chronic pollution and suggest that misperceptions may reflect deeper patterns of disengagement from environmental issues.
 </details>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0095069625000981"><strong>Impact, inspiration, or image: On the trade-offs in pro-environmental behaviors</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a> · </span><span style="color:#000;">Journal of Environmental Economics and Management, 2025</span>
+<span style="color:#000;">with <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a> · </span><span style="color:#000;">Journal of Environmental Economics and Management, 2025</span>
 <details>
 <summary>Abstract</summary>
 Today's environmental challenges prompt individuals to take personal actions, though motivations vary. This paper presents causal evidence of a trade-off between two motivations behind pro-environmental behaviors (PEBs): maximizing environmental impact or being seen as green. In an experiment on voluntary carbon offsetting, we first isolate each motivation and quantify their impact. We then investigate whether individuals deliberately trade-off impact for the visibility of their actions, and why they do so. Our results show that while individuals respond to salient differences in efficiency and visibility, visible PEBs crowd out efficient alternatives, indicating a preference for being seen as green over actual environmental impact. We disentangle two motivations driving this preference for visible actions: social image concerns and role model aspirations. Role model aspirations exert a stronger influence, leading individuals to choose visible PEBs over efficient ones more frequently.
 </details>
 
 <a href="https://link.springer.com/article/10.1007/s10602-019-09284-4"><strong>Sanctioning, selection, and pivotality in voting: theory and experimental results</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://www.tax.mpg.de/de/finanzwissenschaft/mitarbeiter/prof_dr_kai_a_konrad">Kai Konrad</a> · </span><span style="color:#000;">Constitutional Political Economy, 2019</span>
+<span style="color:#000;">with <a href="https://www.tax.mpg.de/de/finanzwissenschaft/mitarbeiter/prof_dr_kai_a_konrad">Kai Konrad</a> · </span><span style="color:#000;">Constitutional Political Economy, 2019</span>
 <details>
 <summary>Abstract</summary>
 Can elected officeholders use their power to extract rents for themselves, or can their accountable behavior be ensured by a threat of future elections? It has been argued that such a threat may fail, particularly if voters are forward looking and elections serve a selection purpose. We consider the accountability problem in elections with selection concerns and multiple voters. When there are multiple voters, pivotality considerations may support equilibria where incumbents behave accountably even with a selection incentive in their favor. In an accompanying laboratory experiment we find that there is heterogeneity among incumbents in terms of their accountability—some incumbents extract much, others do not. Voters are always more likely to re-elect the incumbent if there is a higher future benefit to the voters from her re-election, but less so if they extract rents. An interesting equilibrium is when the incumbent creates a majority group of voters and treats them favorably, with this favored majority voting for her. Here voters' beliefs about their pivot probabilities are tied to whether they are in this majority group or not.
@@ -33,7 +33,7 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 ## Working Papers
 
 <strong style="color:#000;">Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India</strong><br>
-<span style="color:#6c757d;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
+<span style="color:#000;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
 <span style="color:#000;">Featured on the World Bank blog: <a href="https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india">Soft skills training helps grow businesses in rural India</a></span>
 <details>
 <summary>Abstract</summary>
@@ -41,7 +41,7 @@ Can soft skills interventions navigate deeply rooted gender norms? To investigat
 </details>
 
 <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors"><strong>Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html">Shubhro Bhattacharya</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://sites.google.com/view/nirajana-mishra/">Nirajana Mishra</a>, <a href="https://nishithprakash.com/">Nishith Prakash</a>, <a href="https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal">Shwetlena Sabarwal</a> and Dighbijoy Samaddar · </span><span style="color:#000;">CESifo Working Paper No. 12499 · Submitted</span><br>
+<span style="color:#000;">with <a href="https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html">Shubhro Bhattacharya</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://sites.google.com/view/nirajana-mishra/">Nirajana Mishra</a>, <a href="https://nishithprakash.com/">Nishith Prakash</a>, <a href="https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal">Shwetlena Sabarwal</a> and Dighbijoy Samaddar · </span><span style="color:#000;">CESifo Working Paper No. 12499 · Submitted</span><br>
 <span style="color:#000;">Cited in the World Bank report <a href="https://www.worldbank.org/en/topic/education/publication/education-for-climate-action">Education for Climate Action</a></span>
 <details>
 <summary>Abstract</summary>
@@ -49,7 +49,7 @@ This study examines the effect of educational interventions on improving pro-env
 </details>
 
 <a href="https://repec.iza.org/dp17508.pdf"><strong>Sorting it out: Waste Management in Urban India</strong></a><br>
-<span style="color:#6c757d;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">IZA Discussion Paper No. 17508 · R&R, Environment and Resource Economics</span>
+<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">IZA Discussion Paper No. 17508 · R&R, Environment and Resource Economics</span>
 <details>
 <summary>Abstract</summary>
 Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
@@ -63,19 +63,19 @@ This paper uses a field experiment among adolescents in India to study how an in
 </details>
 
 <strong style="color:#000;">Why do we vote? Evidence on expressive voting</strong><br>
-<span style="color:#6c757d;">with Afiq bin Oslan · </span><span style="color:#000;">Working Paper of the Max Planck Institute for Tax Law and Public Finance · Submitted</span>
+<span style="color:#000;">with Afiq bin Oslan · </span><span style="color:#000;">Working Paper of the Max Planck Institute for Tax Law and Public Finance · Submitted</span>
 
 ## In progress
 
 <strong style="color:#000;">Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government Schools</strong><br>
-<span style="color:#6c757d;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a></span>
+<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a></span>
 <details>
 <summary>Abstract</summary>
 Despite growing recognition that socio-emotional skills are critical for human capital development, evidence on whether public school systems can deliver such skills at scale in low-resource settings remains scarce. We evaluate an arts-integrated social-emotional learning (SEL) program embedded in compulsory art classes in government schools in Punjab, India. The intervention by Punjab's State Council of Education Research and Training (SCERT) provides 8+ hours of teacher training and an SEL-integrated art curriculum aligned with India's National Education Policy. We implement a school-level cluster randomized controlled trial across 200 government schools and approximately 6000 Grade 6 students, with stratification by district. The study tests whether holistic skills can be cultivated through existing instructional time and government school teachers.
 </details>
 
 <strong style="color:#000;">Socio-Emotional Skills and Climate Education: A Randomized Evaluation of Air Quality Curriculum in Indian Schools</strong><br>
-<span style="color:#6c757d;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/17573">AEA RCT Registry</a> · Draft under preparation</span>
+<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/17573">AEA RCT Registry</a> · Draft under preparation</span>
 <details>
 <summary>Abstract</summary>
 Climate education may shape pro-environmental preferences and behaviors where children face high exposure to climate risks but few means to adapt. We test an arts-based curriculum that integrates social-emotional learning with climate education through poetry, theatre, and storytelling in a randomized trial across 110 classrooms in low-income Indian schools. The curriculum centers on air pollution as a locally salient issue and aims to make climate change personally relevant while fostering collective engagement. We estimate effects on knowledge, attitudes, individual protective actions, classroom-level public-good contributions, prosocial donations, and information-seeking about air quality, providing experimental evidence on how school-based interventions can influence environmental behavior in developing-country settings.
@@ -83,13 +83,13 @@ Climate education may shape pro-environmental preferences and behaviors where ch
 
 
 <strong style="color:#000;">Ignoring Environmental Impact: Strategic Ignorance to be Seen as Green</strong><br>
-<span style="color:#6c757d;">with Paul Meißner and <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a></span>
+<span style="color:#000;">with Paul Meißner and <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a></span>
 
 <strong style="color:#000;">Seasonal Discounting and Underinvestment in Air Pollution Protection Measures: Field Experiment in Delhi</strong><br>
-<span style="color:#6c757d;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and Andreas Pondorfer</span>
+<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and Andreas Pondorfer</span>
 
 <strong style="color:#000;">Information Campaigns, Environment Norms, and Behaviour: Evidence from the Field</strong><br>
-<span style="color:#6c757d;">with <a href="https://www.esther-blanco.com/bio">Esther Blanco</a> · </span><span style="color:#000;">Data Collection ongoing</span><br>
+<span style="color:#000;">with <a href="https://www.esther-blanco.com/bio">Esther Blanco</a> · </span><span style="color:#000;">Data Collection ongoing</span><br>
 <span style="color:#000;">Part of the broader project <a href="https://sites.google.com/view/cooperation4climate/home">#Cooperate4Climate</a></span>
 <details>
 <summary>Abstract</summary>
@@ -97,7 +97,7 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 <strong style="color:#000;">Wins and losses in collective actions</strong><br>
-<span style="color:#6c757d;">with <a href="http://biljanameiske.com/">Biljana Meiske</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/7474">AEA RCT Registry</a></span>
+<span style="color:#000;">with <a href="http://biljanameiske.com/">Biljana Meiske</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/7474">AEA RCT Registry</a></span>
 <details>
 <summary>Abstract</summary>
 Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
