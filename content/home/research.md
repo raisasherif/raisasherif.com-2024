@@ -93,7 +93,8 @@ Climate education may shape pro-environmental preferences and behaviors where ch
 <span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and Andreas Pondorfer · Funding secured</span>
 
 <strong style="color:#000;">AI-Assisted Learning in Schools: Experimental Evidence from India</strong><br>
-<span style="color:#000;">with <a href="https://nishithprakash.com/">Nishith Prakash</a> and Soham Sahoo · Pilot</span>
+<span style="color:#000;">with <a href="https://nishithprakash.com/">Nishith Prakash</a> and <a href="https://sites.google.com/site/sohamsahoo/">Soham Sahoo</a> · Pilot</span>
+
 
 <strong style="color:#000;">Information Campaigns, Environment Norms, and Behavior: Evidence from the Field</strong><br>
 <span style="color:#000;">with <a href="https://www.esther-blanco.com/bio">Esther Blanco</a> · </span><span style="color:#000;">Data Collection ongoing</span><br>
