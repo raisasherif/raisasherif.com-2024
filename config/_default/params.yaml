@@ -17,7 +17,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Raisa Sherif, Senior Scientist at the Max Planck Institute for Tax Law and Public Finance in Munich.'
+    description: 'Raisa Sherif, Senior Research Fellow at the Max Planck Institute for Tax Law and Public Finance in Munich.'
     twitter: 'raisasherif'
   analytics:
     google_analytics: ''
@@ -113,3 +113,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
