@@ -33,7 +33,7 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 
 ## Working Papers
 
-<strong style="color:#000;">Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India</strong><br>
+<strong style="color:#000;">Entrepreneurial Soft Skills and Social Norms: Experimental Evidence from Rural India</strong><br>
 <span style="color:#000;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
 <span style="color:#000;">Funded by the World Bank</span><br>
 <span style="color:#000;">Featured on the World Bank blog: <a href="https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india">Soft skills training helps grow businesses in rural India</a></span>
@@ -43,7 +43,7 @@ Can soft skills interventions navigate deeply rooted gender norms? To investigat
 </details>
 
 <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors"><strong>Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors</strong></a><br>
-<span style="color:#000;">with <a href="https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html">Shubhro Bhattacharya</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://sites.google.com/view/nirajana-mishra/">Nirajana Mishra</a>, <a href="https://nishithprakash.com/">Nishith Prakash</a>, <a href="https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal">Shwetlena Sabarwal</a> and Dighbijoy Samaddar · </span><span style="color:#000;">CESifo Working Paper No. 12499 · Submitted</span><br>
+<span style="color:#000;">with <a href="https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html">Shubhro Bhattacharya</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://sites.google.com/view/nirajana-mishra/">Nirajana Mishra</a>, <a href="https://nishithprakash.com/">Nishith Prakash</a>, <a href="https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal">Shwetlena Sabarwal</a> and Dighbijoy Samaddar · </span><span style="color:#000;">CESifo Working Paper No. 12499 · Under review, Management Science</span><br>
 <span style="color:#000;">Funded by the World Bank Education Department</span><br>
 <span style="color:#000;">Cited in the World Bank report <a href="https://www.worldbank.org/en/topic/education/publication/education-for-climate-action">Education for Climate Action</a></span>
 <details>
@@ -52,7 +52,7 @@ This study examines the effect of educational interventions on improving pro-env
 </details>
 
 <a href="https://repec.iza.org/dp17508.pdf"><strong>Sorting it out: Waste Management in Urban India</strong></a><br>
-<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">IZA Discussion Paper No. 17508 · R&R, Environment and Resource Economics</span>
+<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">IZA Discussion Paper No. 17508 · R&R, Environmental and Resource Economics</span>
 <details>
 <summary>Abstract</summary>
 Urban waste management challenges pose significant health and economic consequences. Although source-level waste segregation offers a promising solution, its success depends on household participation. Through a randomized controlled trial in the capital city of Bihar, India, we evaluate how light-touch messaging interventions influence household waste management practices. Our results reveal a stark behavioral disconnect: while interventions increased financial contributions to waste segregation initiatives by 9.6 - 11.7 per cent compared to the control group, they failed to improve actual waste segregation practices. This gap between financial support and behavioral change highlights the complexity of promoting sustainable waste management practices in urban households.
@@ -70,8 +70,8 @@ This paper uses a field experiment among adolescents in India to study how an in
 
 ## In progress
 
-<strong style="color:#000;">Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government Schools</strong><br>
-<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a></span><br>
+<strong style="color:#000;">Socio-Emotional Learning through Arts Instruction: Experimental Evidence from Indian Government Schools</strong><br>
+<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a> · Under review, Journal of Development Economics (pre-results review)</span><br>
 <span style="color:#000;">Funded by the J-PAL Learning for All Initiative</span>
 <details>
 <summary>Abstract</summary>
@@ -87,12 +87,15 @@ Climate education may shape pro-environmental preferences and behaviors where ch
 
 
 <strong style="color:#000;">Ignoring Environmental Impact: Strategic Ignorance to be Seen as Green</strong><br>
-<span style="color:#000;">with Paul Meißner and <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a></span>
+<span style="color:#000;">with Paul Meißner and <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html">Sven Simon</a> · Data collection completed</span>
 
 <strong style="color:#000;">Seasonal Discounting and Underinvestment in Air Pollution Protection Measures: Field Experiment in Delhi</strong><br>
-<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and Andreas Pondorfer</span>
+<span style="color:#000;">with <a href="https://sites.google.com/view/ahanaecon/home">Ahana Basistha</a> and Andreas Pondorfer · Funding secured</span>
 
-<strong style="color:#000;">Information Campaigns, Environment Norms, and Behaviour: Evidence from the Field</strong><br>
+<strong style="color:#000;">AI-Assisted Learning in Schools: Experimental Evidence from India</strong><br>
+<span style="color:#000;">with <a href="https://nishithprakash.com/">Nishith Prakash</a> and Soham Sahoo · Pilot</span>
+
+<strong style="color:#000;">Information Campaigns, Environment Norms, and Behavior: Evidence from the Field</strong><br>
 <span style="color:#000;">with <a href="https://www.esther-blanco.com/bio">Esther Blanco</a> · </span><span style="color:#000;">Data Collection ongoing</span><br>
 <span style="color:#000;">Part of the broader project <a href="https://sites.google.com/view/cooperation4climate/home">#Cooperate4Climate</a></span>
 <details>
