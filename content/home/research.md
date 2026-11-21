@@ -1,17 +1,12 @@
 ---
 title: "Research"
 weight: 30
-menu:
-  main:
-    name: "Research"
-    url: "#research"
-    weight: 30
 ---
 <a href="https://www.socialscienceregistry.org/trials/14146" style="color:#000;text-decoration:underline;"><strong>Shaping Minds: The Transformative Effects of Theatre-Based Learning</strong></a><br>
 <span style="color:#6c757d;">with <a href="https://sites.google.com/site/ritamchaurey/" style="color:#6c757d;text-decoration:underline;">Ritam Chaurey</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino" style="color:#6c757d;text-decoration:underline;">Sara Constantino</a>, <a href="https://www.shantanukhanna.com/" style="color:#6c757d;text-decoration:underline;">Shantanu Khanna</a>, <a href="https://sites.google.com/view/abhiroop/home" style="color:#6c757d;text-decoration:underline;">Abhiroop Mukhopadhyay</a> and <a href="https://nishithprakash.com/" style="color:#6c757d;text-decoration:underline;">Nishith Prakash</a> · Conditionally accepted, Journal of Development Economics</span>
 <details>
 <summary>Abstract</summary>
-Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.
+Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized controlled trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.
 </details>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6212580" style="color:#000;text-decoration:underline;"><strong>Do perceptions match pollution levels? Evidence from three Indian cities</strong></a><br>
@@ -67,9 +62,12 @@ Urban waste management challenges pose significant health and economic consequen
 This paper uses a field experiment among adolescents in India to study how an intervention to increase one pro-environment activity (namely, recycling single-use plastic carry bags), spills over to other pro-environment activities. The paper shows using lab and field experiments combined with survey data that (i) providing information on the need to recycle does not change recycling levels, whereas (ii) providing incentives along with the information, leads to higher recycling. There is a positive spillover from the incentive treatment to other pro-environment activities. This positive spillover is observed among subjects who respond to the incentives and increase recycling. Notably, the positive spillover is also observed among those in this treatment who do not respond to the incentives and do not change recycling behaviour. This suggests complementarities among pro-environment behaviours and that interventions may have unaccounted positive effects on non-target environment behaviours.
 </details>
 
+<strong style="color:#000;">Why do we vote? Evidence on expressive voting</strong><br>
+<span style="color:#6c757d;">with Afiq bin Oslan · Working Paper of the Max Planck Institute for Tax Law and Public Finance · Submitted</span>
+
 ## In progress
 
-<strong style="color:#000;">Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government School</strong><br>
+<strong style="color:#000;">Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government Schools</strong><br>
 <span style="color:#6c757d;">with <a href="https://ashutoshbhuradia.com/" style="color:#6c757d;text-decoration:underline;">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/" style="color:#6c757d;text-decoration:underline;">Shantanu Khanna</a> · <a href="https://www.socialscienceregistry.org/trials/19608" style="color:#6c757d;text-decoration:underline;">AEA RCT Registry</a></span>
 <details>
 <summary>Abstract</summary>
@@ -84,9 +82,15 @@ Climate education may shape pro-environmental preferences and behaviors where ch
 </details>
 
 
-<strong style="color:#000;">Information vs Peer Norms: Field Experiment</strong><br>
+<strong style="color:#000;">Ignoring Environmental Impact: Strategic Ignorance to be Seen as Green</strong><br>
+<span style="color:#6c757d;">with Paul Meißner and <a href="https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html" style="color:#6c757d;text-decoration:underline;">Sven Simon</a></span>
+
+<strong style="color:#000;">Seasonal Discounting and Underinvestment in Air Pollution Protection Measures: Field Experiment in Delhi</strong><br>
+<span style="color:#6c757d;">with <a href="https://sites.google.com/view/ahanaecon/home" style="color:#6c757d;text-decoration:underline;">Ahana Basistha</a> and Andreas Pondorfer</span>
+
+<strong style="color:#000;">Information Campaigns, Environment Norms, and Behaviour: Evidence from the Field</strong><br>
 <span style="color:#6c757d;">with <a href="https://www.esther-blanco.com/bio" style="color:#6c757d;text-decoration:underline;">Esther Blanco</a> · Data Collection ongoing</span><br>
-<span style="color:#6c757d;">Part of the broader project <a href="https://sites.google.com/view/cooperation4climate/home?authuser=1" style="color:#6c757d;text-decoration:underline;">#Cooperate4Climate</a></span>
+<span style="color:#6c757d;">Part of the broader project <a href="https://sites.google.com/view/cooperation4climate/home" style="color:#6c757d;text-decoration:underline;">#Cooperate4Climate</a></span>
 <details>
 <summary>Abstract</summary>
 Information campaigns that aim to encourage pro-environment activities are a widely popular policy instrument. In addition to closing the information gap related to target behaviours, such interventions can potentially change the beliefs that individuals hold about the appropriateness of these behaviours. This is particularly likely in the context of environment behaviours because of the normative nature of interventions, where a 'correct' behaviour is often encouraged. We look at whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. We aim to separately identify these two channels through a field experiment.
@@ -98,5 +102,6 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 <summary>Abstract</summary>
 Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
 </details>
+
 
 
