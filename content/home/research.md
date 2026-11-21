@@ -3,7 +3,8 @@ title: "Research"
 weight: 30
 ---
 <a href="https://www.socialscienceregistry.org/trials/14146"><strong>Shaping Minds: The Transformative Effects of Theatre-Based Learning</strong></a><br>
-<span style="color:#000;">with <a href="https://sites.google.com/site/ritamchaurey/">Ritam Chaurey</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a>, <a href="https://sites.google.com/view/abhiroop/home">Abhiroop Mukhopadhyay</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">Conditionally accepted, Journal of Development Economics</span>
+<span style="color:#000;">with <a href="https://sites.google.com/site/ritamchaurey/">Ritam Chaurey</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a>, <a href="https://sites.google.com/view/abhiroop/home">Abhiroop Mukhopadhyay</a> and <a href="https://nishithprakash.com/">Nishith Prakash</a> · </span><span style="color:#000;">Conditionally accepted, Journal of Development Economics</span><br>
+<span style="color:#000;">Funded by the J-PAL Learning for All Initiative</span>
 <details>
 <summary>Abstract</summary>
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills are associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized controlled trial in 96 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 15 hours of arts and theater-based instruction delivered over 10 sessions during a six month period. We measure the impacts on range of socio-emotional skills, cognitive abilities, and learning outcomes.
@@ -34,6 +35,7 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 
 <strong style="color:#000;">Personal Initiative Skills, Gender Gaps, and Social Norms: Experimental Evidence from Rural India</strong><br>
 <span style="color:#000;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
+<span style="color:#000;">Funded by the World Bank</span><br>
 <span style="color:#000;">Featured on the World Bank blog: <a href="https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india">Soft skills training helps grow businesses in rural India</a></span>
 <details>
 <summary>Abstract</summary>
@@ -42,6 +44,7 @@ Can soft skills interventions navigate deeply rooted gender norms? To investigat
 
 <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/intergenerational-spillovers-environmental-attitudes-and-behaviors"><strong>Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors</strong></a><br>
 <span style="color:#000;">with <a href="https://economics.ucsd.edu/graduate-program/about/grad-profiles/cohort_2024/shubhro_bhattacharya.html">Shubhro Bhattacharya</a>, <a href="https://sustainability.stanford.edu/people/sara-constantino">Sara Constantino</a>, <a href="https://sites.google.com/view/nirajana-mishra/">Nirajana Mishra</a>, <a href="https://nishithprakash.com/">Nishith Prakash</a>, <a href="https://blogs.worldbank.org/en/team/s/shwetlena-sabarwal">Shwetlena Sabarwal</a> and Dighbijoy Samaddar · </span><span style="color:#000;">CESifo Working Paper No. 12499 · Submitted</span><br>
+<span style="color:#000;">Funded by the World Bank Education Department</span><br>
 <span style="color:#000;">Cited in the World Bank report <a href="https://www.worldbank.org/en/topic/education/publication/education-for-climate-action">Education for Climate Action</a></span>
 <details>
 <summary>Abstract</summary>
@@ -68,7 +71,8 @@ This paper uses a field experiment among adolescents in India to study how an in
 ## In progress
 
 <strong style="color:#000;">Evaluation of Arts-Integrated Social-Emotional Learning in Indian Government Schools</strong><br>
-<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a></span>
+<span style="color:#000;">with <a href="https://ashutoshbhuradia.com/">Ashutosh Bhuradia</a> and <a href="https://www.shantanukhanna.com/">Shantanu Khanna</a> · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/19608">AEA RCT Registry</a></span><br>
+<span style="color:#000;">Funded by the J-PAL Learning for All Initiative</span>
 <details>
 <summary>Abstract</summary>
 Despite growing recognition that socio-emotional skills are critical for human capital development, evidence on whether public school systems can deliver such skills at scale in low-resource settings remains scarce. We evaluate an arts-integrated social-emotional learning (SEL) program embedded in compulsory art classes in government schools in Punjab, India. The intervention by Punjab's State Council of Education Research and Training (SCERT) provides 8+ hours of teacher training and an SEL-integrated art curriculum aligned with India's National Education Policy. We implement a school-level cluster randomized controlled trial across 200 government schools and approximately 6000 Grade 6 students, with stratification by district. The study tests whether holistic skills can be cultivated through existing instructional time and government school teachers.
