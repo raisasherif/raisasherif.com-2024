@@ -33,8 +33,8 @@ Can elected officeholders use their power to extract rents for themselves, or ca
 
 ## Working Papers
 
-<strong style="color:#000;">Entrepreneurial Soft Skills and Social Norms: Experimental Evidence from Rural India</strong><br>
-<span style="color:#000;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;"><a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
+<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/entrepreneurial-soft-skills-and-social-norms-experimental-evidence"><strong>Entrepreneurial Soft Skills and Social Norms: Experimental Evidence from Rural India</strong></a><br>
+<span style="color:#000;">with <a href="https://sites.google.com/view/sofia-amaral/home">Sofia Amaral</a>, <a href="https://blogs.worldbank.org/en/team/i/isis-gaddis">Isis Gaddis</a>, Shirleen Manzur, Alreena Pinto and Jayati Sethi · </span><span style="color:#000;">CESifo Working Paper No. 13164 · <a href="https://www.socialscienceregistry.org/trials/">AEA RCT Registry</a></span><br>
 <span style="color:#000;">Funded by the World Bank</span><br>
 <span style="color:#000;">Featured on the World Bank blog: <a href="https://blogs.worldbank.org/en/endpovertyinsouthasia/soft-skills-training-helps-grow-businesses-in-rural-india">Soft skills training helps grow businesses in rural India</a></span>
 <details>
